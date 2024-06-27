@@ -1,0 +1,14 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: solid orange;
+    background: linear-gradient(45deg, red,green,blue);
+}
+.box-circle{
+    width: 200px;
+    height: 200px;
+    border: solid rgb(14, 13, 13);
+    background:radial-gradient(red, green, black);
+    border-radius: 50%;
+
+}

@@ -1,0 +1,26 @@
+.targeta{
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    transition: 1s;
+}
+.targeta:hover{
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    transform: rotateY(180deg);
+}
+.coin{
+    margin-top: 40%;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    transition: 1s;
+    border-radius: 50%;
+    animation:infinite;
+}.coin:hover{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    transform: rotateY(360deg);
+}
